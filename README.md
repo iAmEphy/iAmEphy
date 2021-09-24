@@ -6,7 +6,7 @@
 - ✨ On my list to learn:
   - Cloud/Ruby/Spring/Etc
   - Too much to learn, not enough time!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/iAmEphy/github-readme-stats)
+
 
 
 
