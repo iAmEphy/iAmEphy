@@ -1,8 +1,11 @@
 ### Hi I'm Tony 👋
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Software development/engineering as well as being a full stack dev
+- 🌱 I’m currently learning/improving on
+  - React/Next.js/Databases/APIs
+- ✨ On my list to learn:
+  - Cloud/Ruby/Spring/Etc
+  - Too much to learn, not enough time!
 
 
 
