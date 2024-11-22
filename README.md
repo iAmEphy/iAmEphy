@@ -1,8 +1,8 @@
 ### Hi I'm Tony 👋
 
-- 👀 I’m interested in Software development/engineering as well as being a full stack dev
+- 👀 I’m currently a Software Engineer, I would like to become a full stack dev
 - 🌱 I’m currently learning/improving on
-  - React/Next.js/Databases/APIs
+  - React/Next.js/Databases/APIs/Python/Java
 - ✨ On my list to learn:
   - Cloud/Ruby/Spring/Etc
   - Too much to learn, not enough time!
